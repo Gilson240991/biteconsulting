@@ -1,0 +1,22 @@
+[19-Jun-2017 11:39:21 CST6CDT] PHP Warning:  mail(/var/log/phpmail.log): failed to open stream: Permission denied in /home2/biteconsulting/public_html/bite-consulting/prueba.php on line 1
+[19-Jun-2017 11:58:42 CST6CDT] PHP Warning:  mail(/var/log/phpmail.log): failed to open stream: Permission denied in /home2/biteconsulting/public_html/bite-consulting/prueba.php on line 37
+[19-Jun-2017 12:01:04 CST6CDT] PHP Warning:  mail(/var/log/phpmail.log): failed to open stream: Permission denied in /home2/biteconsulting/public_html/bite-consulting/prueba.php on line 37
+[19-Jun-2017 12:12:43 CST6CDT] PHP Warning:  mail(/var/log/phpmail.log): failed to open stream: Permission denied in /home2/biteconsulting/public_html/bite-consulting/prueba.php on line 37
+[10-Nov-2017 08:51:08 CST6CDT] PHP Warning:  include(guest/header.php): failed to open stream: No such file or directory in /home2/biteconsulting/public_html/index.php on line 2
+[10-Nov-2017 08:51:08 CST6CDT] PHP Warning:  include(guest/header.php): failed to open stream: No such file or directory in /home2/biteconsulting/public_html/index.php on line 2
+[10-Nov-2017 08:51:08 CST6CDT] PHP Warning:  include(): Failed opening 'guest/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/biteconsulting/public_html/index.php on line 2
+[10-Nov-2017 08:51:08 CST6CDT] PHP Warning:  include(guest/footer.php): failed to open stream: No such file or directory in /home2/biteconsulting/public_html/index.php on line 750
+[10-Nov-2017 08:51:08 CST6CDT] PHP Warning:  include(guest/footer.php): failed to open stream: No such file or directory in /home2/biteconsulting/public_html/index.php on line 750
+[10-Nov-2017 08:51:08 CST6CDT] PHP Warning:  include(): Failed opening 'guest/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/biteconsulting/public_html/index.php on line 750
+[10-Nov-2017 08:53:29 CST6CDT] PHP Warning:  include(guest/header.php): failed to open stream: No such file or directory in /home2/biteconsulting/public_html/contacto.php on line 1
+[10-Nov-2017 08:53:29 CST6CDT] PHP Warning:  include(guest/header.php): failed to open stream: No such file or directory in /home2/biteconsulting/public_html/contacto.php on line 1
+[10-Nov-2017 08:53:29 CST6CDT] PHP Warning:  include(): Failed opening 'guest/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/biteconsulting/public_html/contacto.php on line 1
+[10-Nov-2017 08:53:29 CST6CDT] PHP Warning:  include(guest/footer.php): failed to open stream: No such file or directory in /home2/biteconsulting/public_html/contacto.php on line 168
+[10-Nov-2017 08:53:29 CST6CDT] PHP Warning:  include(guest/footer.php): failed to open stream: No such file or directory in /home2/biteconsulting/public_html/contacto.php on line 168
+[10-Nov-2017 08:53:29 CST6CDT] PHP Warning:  include(): Failed opening 'guest/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/biteconsulting/public_html/contacto.php on line 168
+[10-Nov-2017 08:53:29 CST6CDT] PHP Warning:  include(guest/header.php): failed to open stream: No such file or directory in /home2/biteconsulting/public_html/contacto.php on line 1
+[10-Nov-2017 08:53:29 CST6CDT] PHP Warning:  include(guest/header.php): failed to open stream: No such file or directory in /home2/biteconsulting/public_html/contacto.php on line 1
+[10-Nov-2017 08:53:29 CST6CDT] PHP Warning:  include(): Failed opening 'guest/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/biteconsulting/public_html/contacto.php on line 1
+[10-Nov-2017 08:53:29 CST6CDT] PHP Warning:  include(guest/footer.php): failed to open stream: No such file or directory in /home2/biteconsulting/public_html/contacto.php on line 168
+[10-Nov-2017 08:53:29 CST6CDT] PHP Warning:  include(guest/footer.php): failed to open stream: No such file or directory in /home2/biteconsulting/public_html/contacto.php on line 168
+[10-Nov-2017 08:53:29 CST6CDT] PHP Warning:  include(): Failed opening 'guest/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/biteconsulting/public_html/contacto.php on line 168
