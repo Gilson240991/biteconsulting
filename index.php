@@ -47,7 +47,7 @@
 					============================================= -->
 					<div id="logo">
 						<a href="index.html" class="standard-logo" data-dark-logo="images/logo-dark.png"><img src="images/logo/BITE.png" alt="Canvas Logo"></a>
-						<a href="index.html" class="retina-logo" data-dark-logo="images/logo-dark@2x.png"><img src="images/logo@2x.png" alt="Canvas Logo"></a>
+						<a href="index.html" class="retina-logo" data-dark-logo="images/logo-dark@2x.png"><img src="images/logo/BITE.png" alt="Canvas Logo"></a>
 					</div><!-- #logo end -->
 
 					<!-- Primary Navigation
@@ -57,7 +57,7 @@
 						<ul>
 							<li class="current"><a href="http://localhost/bite-consulting/prueba.php"><div>Inicio</div></a></li>
 							
-							<li><a href="#"><div>Nosotros</div></a></li>
+							<li><a href="#" data-href='#nosotros'><div>Nosotros</div></a></li>
 
 							<li class="mega-menu"><a href="#"><div>Servicios</div></a></li>
 
@@ -143,7 +143,7 @@
 
 			<div class="content-wrap">
 
-				<section id="section-about" class="page-section">
+				<section id="nosotros" class="page-section">
 
 					<div class="container clearfix">
 
