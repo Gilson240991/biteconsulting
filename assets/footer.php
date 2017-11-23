@@ -6,131 +6,9 @@
 
 				<!-- Footer Widgets
 				============================================= -->
-				<div class="footer-widgets-wrap clearfix">
+				<!--<div class="footer-widgets-wrap clearfix">
 
 					<div class="col_two_third">
-
-						<div class="col_one_third">
-
-							<div class="widget clearfix">
-
-								<img src="images/footer-widget-logo.png" alt="" class="footer-logo">
-
-								<p>We believe in <strong>Simple</strong>, <strong>Creative</strong> &amp; <strong>Flexible</strong> Design Standards.</p>
-
-								<div style="background: url('images/world-map.png') no-repeat center center; background-size: 100%;">
-									<address>
-										<strong>Lima - Perú:</strong><br>
-										Av. Santa Rosa, MZ W  LT 23<br>
-										San Martin de Porres<br>
-									</address>
-									<abbr title="CellPhone Number"><strong>CellPhone:</strong></abbr> (51) 959134676<br>
-									<abbr title="Phone"><strong>Phone:</strong></abbr> (51) 01 575 2849<br>
-									<abbr title="Email Address"><strong>Email:</strong></abbr> info@bite-consulting.com
-								</div>
-
-							</div>
-
-						</div>
-
-						<div class="col_one_third">
-
-							<div class="widget widget_links clearfix">
-
-								<h4>Blogroll</h4>
-
-								<ul>
-									<li><a href="http://codex.wordpress.org/">Documentation</a></li>
-									<li><a href="http://wordpress.org/support/forum/requests-and-feedback">Feedback</a></li>
-									<li><a href="http://wordpress.org/extend/plugins/">Plugins</a></li>
-									<li><a href="http://wordpress.org/support/">Support Forums</a></li>
-									<li><a href="http://wordpress.org/extend/themes/">Themes</a></li>
-									<li><a href="http://wordpress.org/news/">WordPress Blog</a></li>
-									<li><a href="http://planet.wordpress.org/">WordPress Planet</a></li>
-								</ul>
-
-							</div>
-
-						</div>
-
-						<div class="col_one_third col_last">
-
-							<div class="widget clearfix">
-								<h4>Recent Posts</h4>
-
-								<div id="post-list-footer">
-									<div class="spost clearfix">
-										<div class="entry-c">
-											<div class="entry-title">
-												<h4><a href="#">Lorem ipsum dolor sit amet, consectetur</a></h4>
-											</div>
-											<ul class="entry-meta">
-												<li>10th July 2014</li>
-											</ul>
-										</div>
-									</div>
-
-									<div class="spost clearfix">
-										<div class="entry-c">
-											<div class="entry-title">
-												<h4><a href="#">Elit Assumenda vel amet dolorum quasi</a></h4>
-											</div>
-											<ul class="entry-meta">
-												<li>10th July 2014</li>
-											</ul>
-										</div>
-									</div>
-
-									<div class="spost clearfix">
-										<div class="entry-c">
-											<div class="entry-title">
-												<h4><a href="#">Debitis nihil placeat, illum est nisi</a></h4>
-											</div>
-											<ul class="entry-meta">
-												<li>10th July 2014</li>
-											</ul>
-										</div>
-									</div>
-								</div>
-							</div>
-
-						</div>
-
-					</div>
-
-					<div class="col_one_third col_last">
-
-						<div class="widget clearfix" style="margin-bottom: -20px;">
-
-							<div class="row">
-
-								<div class="col-md-6 bottommargin-sm">
-									<div class="counter counter-small"><span data-from="50" data-to="15065421" data-refresh-interval="80" data-speed="3000" data-comma="true"></span></div>
-									<h5 class="nobottommargin">Total Downloads</h5>
-								</div>
-
-								<div class="col-md-6 bottommargin-sm">
-									<div class="counter counter-small"><span data-from="100" data-to="18465" data-refresh-interval="50" data-speed="2000" data-comma="true"></span></div>
-									<h5 class="nobottommargin">Clients</h5>
-								</div>
-
-							</div>
-
-						</div>
-
-						<div class="widget subscribe-widget clearfix">
-							<h5><strong>Subscribe</strong> to Our Newsletter to get Important News, Amazing Offers &amp; Inside Scoops:</h5>
-							<div class="widget-subscribe-form-result"></div>
-							<form id="widget-subscribe-form" action="include/subscribe.php" role="form" method="post" class="nobottommargin">
-								<div class="input-group divcenter">
-									<span class="input-group-addon"><i class="icon-email2"></i></span>
-									<input type="email" id="widget-subscribe-form-email" name="widget-subscribe-form-email" class="form-control required email" placeholder="Enter your Email">
-									<span class="input-group-btn">
-										<button class="btn btn-success" type="submit">Subscribe</button>
-									</span>
-								</div>
-							</form>
-						</div>
 
 						<div class="widget clearfix" style="margin-bottom: -20px;">
 
@@ -157,9 +35,10 @@
 
 					</div>
 
-				</div><!-- .footer-widgets-wrap end -->
+				</div>
+				<!-- .footer-widgets-wrap end -->
 
-			</div>
+			</div> 
 
 			<!-- Copyrights
 			============================================= -->

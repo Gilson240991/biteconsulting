@@ -164,37 +164,116 @@
 
 					</div>
 
-					<div class="section dark parallax nobottommargin" style="padding: 80px 0;background-image: url('images/parallax/1.jpg');" data-stellar-background-ratio="0.3">
+				<section id="servicios" class="page-section topmargin-lg">
 
-						<div class="container clearfix">
+					<div class="heading-block center bottommargin-lg">
+						<h2>Servicios</h2>
+						<span>List of some features included in Canvas.</span>
+					</div>
 
-							<div class="col_one_fourth nobottommargin center" data-animate="bounceIn">
-								<i class="i-plain i-xlarge divcenter nobottommargin icon-code"></i>
-								<div class="counter counter-lined"><span data-from="100" data-to="846" data-refresh-interval="50" data-speed="2000"></span>K+</div>
-								<h5>Lines of Codes</h5>
+					<div class="container clearfix">
+
+						<div class="col_one_third">
+							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn">
+								<div class="fbox-icon">
+									<a href="#"><i class="icon-phone2"></i></a>
+								</div>
+								<h3>Responsive Layout</h3>
+								<p>Powerful Layout with Responsive functionality that can be adapted to any screen size.</p>
 							</div>
-
-							<div class="col_one_fourth nobottommargin center" data-animate="bounceIn" data-delay="200">
-								<i class="i-plain i-xlarge divcenter nobottommargin icon-magic"></i>
-								<div class="counter counter-lined"><span data-from="3000" data-to="15360" data-refresh-interval="100" data-speed="2500"></span>+</div>
-								<h5>KBs of HTML Files</h5>
-							</div>
-
-							<div class="col_one_fourth nobottommargin center" data-animate="bounceIn" data-delay="400">
-								<i class="i-plain i-xlarge divcenter nobottommargin icon-file-text"></i>
-								<div class="counter counter-lined"><span data-from="10" data-to="386" data-refresh-interval="25" data-speed="3500"></span>*</div>
-								<h5>No. of Templates</h5>
-							</div>
-
-							<div class="col_one_fourth nobottommargin center col_last" data-animate="bounceIn" data-delay="600">
-								<i class="i-plain i-xlarge divcenter nobottommargin icon-time"></i>
-								<div class="counter counter-lined"><span data-from="60" data-to="1200" data-refresh-interval="30" data-speed="2700"></span>+</div>
-								<h5>Hours of Coding</h5>
-							</div>
-
 						</div>
 
+						<div class="col_one_third">
+							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="200">
+								<div class="fbox-icon">
+									<a href="#"><i class="icon-eye"></i></a>
+								</div>
+								<h3>Retina Ready Graphics</h3>
+								<p>Looks beautiful &amp; ultra-sharp on Retina Displays with Retina Icons, Fonts &amp; Images.</p>
+							</div>
+						</div>
+
+						<div class="col_one_third col_last">
+							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="400">
+								<div class="fbox-icon">
+									<a href="#"><i class="icon-star2"></i></a>
+								</div>
+								<h3>Powerful Performance</h3>
+								<p>Optimized code that are completely customizable and deliver unmatched fast performance.</p>
+							</div>
+						</div>
+
+						<div class="clear"></div>
+
+						<div class="col_one_third">
+							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="600">
+								<div class="fbox-icon">
+									<a href="#"><i class="icon-video"></i></a>
+								</div>
+								<h3>HTML5 Video</h3>
+								<p>Canvas provides support for Native HTML5 Videos that can be added to a Full Width Background.</p>
+							</div>
+						</div>
+
+						<div class="col_one_third">
+							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="800">
+								<div class="fbox-icon">
+									<a href="#"><i class="icon-params"></i></a>
+								</div>
+								<h3>Parallax Support</h3>
+								<p>Display your Content attractively using Parallax Sections that have unlimited customizable areas.</p>
+							</div>
+						</div>
+
+						<div class="col_one_third col_last">
+							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="1000">
+								<div class="fbox-icon">
+									<a href="#"><i class="icon-fire"></i></a>
+								</div>
+								<h3>Endless Possibilities</h3>
+								<p>Complete control on each &amp; every element that provides endless customization possibilities.</p>
+							</div>
+						</div>
+
+						<div class="clear"></div>
+
+						<div class="col_one_third nobottommargin">
+							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="1200">
+								<div class="fbox-icon">
+									<a href="#"><i class="icon-bulb"></i></a>
+								</div>
+								<h3>Light &amp; Dark Color Schemes</h3>
+								<p>Change your Website's Primary Scheme instantly by simply adding the dark class to the body.</p>
+							</div>
+						</div>
+
+						<div class="col_one_third nobottommargin">
+							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="1400">
+								<div class="fbox-icon">
+									<a href="#"><i class="icon-heart2"></i></a>
+								</div>
+								<h3>Boxed &amp; Wide Layouts</h3>
+								<p>Stretch your Website to the Full Width or make it boxed to surprise your visitors.</p>
+							</div>
+						</div>
+
+						<div class="col_one_third nobottommargin col_last">
+							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="1600">
+								<div class="fbox-icon">
+									<a href="#"><i class="icon-note"></i></a>
+								</div>
+								<h3>Extensive Documentation</h3>
+								<p>We have covered each &amp; everything in our Documentation including Videos &amp; Screenshots.</p>
+							</div>
+						</div>
+
+						<div class="clear"></div>
+
 					</div>
+
+					<div class="divider divider-short divider-center topmargin-lg"><i class="icon-star3"></i></div>
+
+				</section>
 
 				</section>
 
@@ -534,35 +613,35 @@
 						<div class="clear"></div>
 
 						<div class="fancy-title title-border title-center topmargin-sm">
-							<h4>Skills we are Perfect in</h4>
+							<h4>Habilidades de Nuestros Profesionales</h4>
 						</div>
 
 						<div class="col_one_fourth nobottommargin center">
 							<div class="rounded-skill" data-color="#D01C1C" data-size="150" data-percent="90" data-width="2" data-animate="3000">
 								<div class="counter counter-inherit"><span data-from="1" data-to="90" data-refresh-interval="50" data-speed="3000"></span>%</div>
 							</div>
-							<h5>HTML5</h5>
+							<h5>Gestion de Proyectos</h5>
 						</div>
 
 						<div class="col_one_fourth nobottommargin center">
 							<div class="rounded-skill" data-color="#1770A4" data-size="150" data-percent="75" data-width="2" data-animate="3000">
 								<div class="counter counter-inherit"><span data-from="1" data-to="75" data-refresh-interval="50" data-speed="3000"></span>%</div>
 							</div>
-							<h5>CSS3</h5>
+							<h5>Calidad de Servicio</h5>
 						</div>
 
 						<div class="col_one_fourth nobottommargin center">
 							<div class="rounded-skill" data-color="#6A89AA" data-size="150" data-percent="85" data-width="2" data-animate="3000">
 								<div class="counter counter-inherit"><span data-from="1" data-to="85" data-refresh-interval="50" data-speed="3000"></span>%</div>
 							</div>
-							<h5>PHP</h5>
+							<h5>Metodologías Ágiles</h5>
 						</div>
 
 						<div class="col_one_fourth nobottommargin center col_last">
 							<div class="rounded-skill" data-color="#248673" data-size="150" data-percent="80" data-width="2" data-animate="3000">
 								<div class="counter counter-inherit"><span data-from="1" data-to="80" data-refresh-interval="50" data-speed="3000"></span>%</div>
 							</div>
-							<h5>jQuery</h5>
+							<h5>Gobierno TI</h5>
 						</div>
 
 					</div>
@@ -575,119 +654,8 @@
 
 				</section>
 
-				<section id="servicios" class="page-section topmargin-lg">
 
-					<div class="heading-block center bottommargin-lg">
-						<h2>Servicios</h2>
-						<span>List of some features included in Canvas.</span>
-					</div>
-
-					<div class="container clearfix">
-
-						<div class="col_one_third">
-							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn">
-								<div class="fbox-icon">
-									<a href="#"><i class="icon-phone2"></i></a>
-								</div>
-								<h3>Responsive Layout</h3>
-								<p>Powerful Layout with Responsive functionality that can be adapted to any screen size.</p>
-							</div>
-						</div>
-
-						<div class="col_one_third">
-							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="200">
-								<div class="fbox-icon">
-									<a href="#"><i class="icon-eye"></i></a>
-								</div>
-								<h3>Retina Ready Graphics</h3>
-								<p>Looks beautiful &amp; ultra-sharp on Retina Displays with Retina Icons, Fonts &amp; Images.</p>
-							</div>
-						</div>
-
-						<div class="col_one_third col_last">
-							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="400">
-								<div class="fbox-icon">
-									<a href="#"><i class="icon-star2"></i></a>
-								</div>
-								<h3>Powerful Performance</h3>
-								<p>Optimized code that are completely customizable and deliver unmatched fast performance.</p>
-							</div>
-						</div>
-
-						<div class="clear"></div>
-
-						<div class="col_one_third">
-							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="600">
-								<div class="fbox-icon">
-									<a href="#"><i class="icon-video"></i></a>
-								</div>
-								<h3>HTML5 Video</h3>
-								<p>Canvas provides support for Native HTML5 Videos that can be added to a Full Width Background.</p>
-							</div>
-						</div>
-
-						<div class="col_one_third">
-							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="800">
-								<div class="fbox-icon">
-									<a href="#"><i class="icon-params"></i></a>
-								</div>
-								<h3>Parallax Support</h3>
-								<p>Display your Content attractively using Parallax Sections that have unlimited customizable areas.</p>
-							</div>
-						</div>
-
-						<div class="col_one_third col_last">
-							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="1000">
-								<div class="fbox-icon">
-									<a href="#"><i class="icon-fire"></i></a>
-								</div>
-								<h3>Endless Possibilities</h3>
-								<p>Complete control on each &amp; every element that provides endless customization possibilities.</p>
-							</div>
-						</div>
-
-						<div class="clear"></div>
-
-						<div class="col_one_third nobottommargin">
-							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="1200">
-								<div class="fbox-icon">
-									<a href="#"><i class="icon-bulb"></i></a>
-								</div>
-								<h3>Light &amp; Dark Color Schemes</h3>
-								<p>Change your Website's Primary Scheme instantly by simply adding the dark class to the body.</p>
-							</div>
-						</div>
-
-						<div class="col_one_third nobottommargin">
-							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="1400">
-								<div class="fbox-icon">
-									<a href="#"><i class="icon-heart2"></i></a>
-								</div>
-								<h3>Boxed &amp; Wide Layouts</h3>
-								<p>Stretch your Website to the Full Width or make it boxed to surprise your visitors.</p>
-							</div>
-						</div>
-
-						<div class="col_one_third nobottommargin col_last">
-							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="1600">
-								<div class="fbox-icon">
-									<a href="#"><i class="icon-note"></i></a>
-								</div>
-								<h3>Extensive Documentation</h3>
-								<p>We have covered each &amp; everything in our Documentation including Videos &amp; Screenshots.</p>
-							</div>
-						</div>
-
-						<div class="clear"></div>
-
-					</div>
-
-					<div class="divider divider-short divider-center topmargin-lg"><i class="icon-star3"></i></div>
-
-				</section>
-
-
-				<section id="section-testimonials" class="page-section section parallax dark" style="background-image: url('images/about/me-parallax.jpg'); padding: 200px 0;" data-stellar-background-ratio="0.3">
+				<section id="section-testimonials" class="page-section section parallax dark" style="background-image: url('images/parallax/home/7.jpg'); padding: 200px 0;" data-stellar-background-ratio="0.3">
 
 					<div class="container clearfix">
 
@@ -790,11 +758,12 @@
 								<div class="col_one_third col_last">
 									<label for="template-contactform-service">Servicio</label>
 									<select id="template-contactform-service" name="template-contactform-service" class="sm-form-control">
-										<option value="">-- Select One --</option>
-										<option value="Wordpress">Wordpress</option>
-										<option value="PHP / MySQL">PHP / MySQL</option>
-										<option value="HTML5 / CSS3">HTML5 / CSS3</option>
-										<option value="Graphic Design">Graphic Design</option>
+										<option value="">--- Seleccionar ---</option>
+										<option value="Consultoría">Consultoría</option>
+										<option value="Desarrollo de Software">Desarrollo de Software</option>
+										<option value="Aplicaciones Móviles">Aplicaciones Móviles</option>
+										<option value="Páginas Web">Páginas Web</option>
+										<option value="Outsourcing">Outsourcing</option>
 									</select>
 								</div>
 
