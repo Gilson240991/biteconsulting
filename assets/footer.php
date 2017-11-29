@@ -93,6 +93,8 @@
 
 	<script type="text/javascript" src="https://maps.google.com/maps/api/js?key=AIzaSyDMxJ92oBkSnVNHFX3R8XhtYQPEgk1_IiI"></script>
 	<script type="text/javascript" src="js/jquery.gmap.js"></script>
+	<script type="text/javascript" src="js/mail.js"></script>
+
 
 	<script type="text/javascript">
 
