@@ -97,12 +97,12 @@
 	<script type="text/javascript">
 
 		jQuery('#google-map').gMap({
-			address: 'Melbourne, Australia',
+			address: 'Lima, Perú',
 			maptype: 'ROADMAP',
 			zoom: 14,
 			markers: [
 				{
-					address: "Melbourne, Australia",
+					address: "Lima, Perú",
 					html: '<div style="width: 300px;"><h4 style="margin-bottom: 8px;">Hi, we\'re <span>Envato</span></h4><p class="nobottommargin">Our mission is to help people to <strong>earn</strong> and to <strong>learn</strong> online. We operate <strong>marketplaces</strong> where hundreds of thousands of people buy and sell digital goods every day, and a network of educational blogs where millions learn <strong>creative skills</strong>.</p></div>',
 					icon: {
 						image: "images/icons/map-icon-red.png",

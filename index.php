@@ -41,13 +41,13 @@
 						</ul>
 
 						<!-- Top Search
-						============================================= -->
+						
 						<div id="top-search">
 							<a href="#" id="top-search-trigger"><i class="icon-search3"></i><i class="icon-line-cross"></i></a>
 							<form action="search.html" method="get">
 								<input type="text" name="q" class="form-control" value="" placeholder="BUSCAR">
 							</form>
-						</div><!-- #top-search end -->
+						</div> #top-search end -->
 
 					</nav><!-- #primary-menu end -->
 
@@ -57,7 +57,7 @@
 
 		</header><!-- #header end -->
 
-		<section id="slider" class="slider-parallax full-screen force-full-screen with-header swiper_wrapper page-section clearfix">
+		<section id="slider" class="slider-parallax swiper_wrapper full-screen clearfix" data-autoplay="7000" data-speed="650" data-loop="true">
 
 			<div class="slider-parallax-inner">
 
@@ -65,17 +65,17 @@
 					<div class="swiper-wrapper">
 						<div class="swiper-slide dark" style="background-image: url('images/slider/swiper/slider1.jpg');">
 							<div class="container clearfix">
-								<div class="slider-caption slider-caption-right">
-									<h2 data-caption-animate="fadeInUp">CREEMOS QUE TUS IDEAS PUEDEN LLEGAR LEJOS</h2>
-									<p data-caption-animate="fadeInUp" data-caption-delay="200">Creamos e Implementamos Soluciones a tu medida, te damos la mano para ir juntos en busca del éxito.</p>
+								<div class="slider-caption slider-caption-center">
+									<h2 data-caption-animate="fadeInUp">Tecnología de la mano con su negocio</h2>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200">El uso de tecnologías de información alineadas a sus estrategias de negocio, le ayudará a que pueda obtener mayores beneficios.</p>
 								</div>
 							</div>
 						</div>
 						<div class="swiper-slide dark">
 							<div class="container clearfix">
 								<div class="slider-caption slider-caption-center">
-									<h2 data-caption-animate="fadeInUp">Beautifully Flexible</h2>
-									<p data-caption-animate="fadeInUp" data-caption-delay="200">Looks beautiful &amp; ultra-sharp on Retina Screen Displays. Powerful Layout with Responsive functionality that can be adapted to any screen size.</p>
+									<h2 data-caption-animate="fadeInUp">Tus ideas pueden llegar lejos</h2>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200">Y tenemos soluciones pensadas en tí, que te ayudarán a dar el gran salto.</p>
 								</div>
 							</div>
 							<div class="video-wrap">
@@ -89,15 +89,14 @@
 						<div class="swiper-slide" style="background-image: url('images/slider/swiper/3.jpg'); background-position: center top;">
 							<div class="container clearfix">
 								<div class="slider-caption">
-									<h2 data-caption-animate="fadeInUp">Great Performance</h2>
-									<p data-caption-animate="fadeInUp" data-caption-delay="200">You'll be surprised to see the Final Results of your Creation &amp; would crave for more.</p>
+									<h2 data-caption-animate="fadeInUp">¿Qué esperas?</h2>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200">Somos la solución que estabas buscando, y tenemos el ajuste perfecto entre calidad y precio. Contáctanos</p>
 								</div>
 							</div>
 						</div>
 					</div>
 					<div id="slider-arrow-left"><i class="icon-angle-left"></i></div>
 					<div id="slider-arrow-right"><i class="icon-angle-right"></i></div>
-					<div id="slide-number"><div id="slide-number-current"></div><span>/</span><div id="slide-number-total"></div></div>
 					<a href="#" data-scrollto="#section-about" class="one-page-arrow dark">
 						<i class="icon-angle-down infinite animated fadeInDown"></i>
 					</a>
@@ -121,41 +120,41 @@
 
 						<div class="heading-block center">
 							<h2>Nosotros</h2>
-							<span>One of the most Versatile Theme on Themeforest</span>
+							<span>Somos una empresa peruana de consultoría en tecnologías de información, especializados en crear e implementar soluciones de negocio a medida, desarrollo de aplicaciones y outsourcing para pequeñas, medianas y grandes empresas en el sector privado y público.</span>
 						</div>
 
 						<div class="col_one_third nobottommargin">
-							<div class="feature-box media-box">
+							<div class="feature-box media-box text-center">
 								<div class="fbox-media">
 									<img src="images/services/1.jpg" alt="Why choose Us?">
 								</div>
 								<div class="fbox-desc">
-									<h3>Why choose Us.<span class="subtitle">Because we are Reliable.</span></h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi rem, facilis nobis voluptatum est voluptatem accusamus molestiae eaque perspiciatis mollitia.</p>
+									<h3>Misión<span class="subtitle">Asegurar su inversión</span></h3>
+									<p>La satisfacción de nuestros clientes es la nuestra, es por eso que priorizamos brindar algo mas que una solución y darle un valor agregado a cada proyecto garantizando siempre su inversión.</p>
 								</div>
 							</div>
 						</div>
 
 						<div class="col_one_third nobottommargin">
-							<div class="feature-box media-box">
+							<div class="feature-box media-box text-center">
 								<div class="fbox-media">
 									<img src="images/services/2.jpg" alt="Why choose Us?">
 								</div>
 								<div class="fbox-desc">
-									<h3>Our Mission.<span class="subtitle">To Redefine your Brand.</span></h3>
-									<p>Quos, non, esse eligendi ab accusantium voluptatem. Maxime eligendi beatae, atque tempora ullam. Vitae delectus quia, consequuntur rerum molestias quo.</p>
+									<h3>Visión<span class="subtitle">Redefinir el negocio</span></h3>
+									<p>Ser una empresa reconocida por su innovación y satisfacción de clientes a nivel mundial, rompiendo el paradigma donde las personas se sientan completamente felices de usar soluciones con TI.</p>
 								</div>
 							</div>
 						</div>
 
 						<div class="col_one_third nobottommargin col_last">
-							<div class="feature-box media-box">
+							<div class="feature-box media-box text-center">
 								<div class="fbox-media">
 									<img src="images/services/3.jpg" alt="Why choose Us?">
 								</div>
 								<div class="fbox-desc">
-									<h3>What we Do.<span class="subtitle">Make our Customers Happy.</span></h3>
-									<p>Porro repellat vero sapiente amet vitae quibusdam necessitatibus consectetur, labore totam. Accusamus perspiciatis asperiores labore esse ab accusantium ea modi ut.</p>
+									<h3>¿Porque elegirnos?<span class="subtitle">Nuestros valores</span></h3>
+									<p>Vivimos felices haciendo lo que nos gusta, asumiendo cada proyecto con responsabilidad y compromiso, dejando todo de nosotros para lograr la satisfacción de nuestros clientes.</p>
 								</div>
 							</div>
 						</div>
@@ -168,7 +167,7 @@
 
 					<div class="heading-block center bottommargin-lg">
 						<h2>Servicios</h2>
-						<span>List of some features included in Canvas.</span>
+						<span>Trabajamos para que cada servicio tenga un resultado único y creamos valor en cada proyecto. Tiene a su disposición:</span>
 					</div>
 
 					<div class="container clearfix">
@@ -176,10 +175,10 @@
 						<div class="col_one_third">
 							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn">
 								<div class="fbox-icon">
-									<a href="#"><i class="icon-phone2"></i></a>
+									<a href="#"><i class="icon-star2"></i></a>
 								</div>
-								<h3>Responsive Layout</h3>
-								<p>Powerful Layout with Responsive functionality that can be adapted to any screen size.</p>
+								<h3>Consultoría</h3>
+								<p>Brindamos asesoría profesional en busqueda de la mejor solución para suplir sus necesidades, con la ayuda de tecnologías de información que sean adaptables al negocio; para darle resultados tangibles, específicos y congruentes que se alinean a las estrategias del negocio.</p>
 							</div>
 						</div>
 
@@ -188,17 +187,17 @@
 								<div class="fbox-icon">
 									<a href="#"><i class="icon-eye"></i></a>
 								</div>
-								<h3>Retina Ready Graphics</h3>
-								<p>Looks beautiful &amp; ultra-sharp on Retina Displays with Retina Icons, Fonts &amp; Images.</p>
+								<h3>Desarrollo de Software</h3>
+								<p>Creamos soluciones personalizadas basados en multiples lenguajes de programación, para mejorar o resolver alguna necesidad dentro de los procesos de su empresa.</p>
 							</div>
 						</div>
 
 						<div class="col_one_third col_last">
 							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="400">
 								<div class="fbox-icon">
-									<a href="#"><i class="icon-star2"></i></a>
+									<a href="#"><i class="icon-phone2"></i></a>
 								</div>
-								<h3>Powerful Performance</h3>
+								<h3>Aplicaciones Móviles</h3>
 								<p>Optimized code that are completely customizable and deliver unmatched fast performance.</p>
 							</div>
 						</div>
@@ -210,7 +209,7 @@
 								<div class="fbox-icon">
 									<a href="#"><i class="icon-video"></i></a>
 								</div>
-								<h3>HTML5 Video</h3>
+								<h3>Páginas Web</h3>
 								<p>Canvas provides support for Native HTML5 Videos that can be added to a Full Width Background.</p>
 							</div>
 						</div>
@@ -220,53 +219,12 @@
 								<div class="fbox-icon">
 									<a href="#"><i class="icon-params"></i></a>
 								</div>
-								<h3>Parallax Support</h3>
+								<h3>Outsourcing</h3>
 								<p>Display your Content attractively using Parallax Sections that have unlimited customizable areas.</p>
 							</div>
 						</div>
 
-						<div class="col_one_third col_last">
-							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="1000">
-								<div class="fbox-icon">
-									<a href="#"><i class="icon-fire"></i></a>
-								</div>
-								<h3>Endless Possibilities</h3>
-								<p>Complete control on each &amp; every element that provides endless customization possibilities.</p>
-							</div>
-						</div>
-
-						<div class="clear"></div>
-
-						<div class="col_one_third nobottommargin">
-							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="1200">
-								<div class="fbox-icon">
-									<a href="#"><i class="icon-bulb"></i></a>
-								</div>
-								<h3>Light &amp; Dark Color Schemes</h3>
-								<p>Change your Website's Primary Scheme instantly by simply adding the dark class to the body.</p>
-							</div>
-						</div>
-
-						<div class="col_one_third nobottommargin">
-							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="1400">
-								<div class="fbox-icon">
-									<a href="#"><i class="icon-heart2"></i></a>
-								</div>
-								<h3>Boxed &amp; Wide Layouts</h3>
-								<p>Stretch your Website to the Full Width or make it boxed to surprise your visitors.</p>
-							</div>
-						</div>
-
-						<div class="col_one_third nobottommargin col_last">
-							<div class="feature-box fbox-center fbox-effect nobottomborder" data-animate="fadeIn" data-delay="1600">
-								<div class="fbox-icon">
-									<a href="#"><i class="icon-note"></i></a>
-								</div>
-								<h3>Extensive Documentation</h3>
-								<p>We have covered each &amp; everything in our Documentation including Videos &amp; Screenshots.</p>
-							</div>
-						</div>
-
+						
 						<div class="clear"></div>
 
 					</div>
@@ -301,8 +259,8 @@
 									</div>
 								</div>
 								<div class="portfolio-desc">
-									<h3><a href="portfolio-single.html">Open Imagination</a></h3>
-									<span><a href="#">Media</a>, <a href="#">Icons</a></span>
+									<h3><a href="portfolio-single.html">IMCOPNA</a></h3>
+									<span><a href="#"></a>, <a href="#">Icons</a></span>
 								</div>
 							</article>
 
@@ -422,73 +380,6 @@
 								</div>
 							</article>
 
-							<article class="portfolio-item pf-illustrations pf-icons">
-								<div class="portfolio-image">
-									<a href="#">
-										<img src="images/portfolio/4/9.jpg" alt="Mac Sunglasses">
-									</a>
-									<div class="portfolio-overlay" data-lightbox="gallery">
-										<a href="images/portfolio/full/9.jpg" class="left-icon" data-lightbox="gallery-item"><i class="icon-line-stack-2"></i></a>
-										<a href="images/portfolio/full/9-1.jpg" class="hidden" data-lightbox="gallery-item"></a>
-										<a href="images/portfolio/full/9-2.jpg" class="hidden" data-lightbox="gallery-item"></a>
-										<a href="portfolio-single-gallery.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
-									</div>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="portfolio-single.html">Bridge Side</a></h3>
-									<span><a href="#">Illustrations</a>, <a href="#">Icons</a></span>
-								</div>
-							</article>
-
-							<article class="portfolio-item pf-graphics pf-media pf-uielements">
-								<div class="portfolio-image">
-									<a href="portfolio-single-video.html">
-										<img src="images/portfolio/4/10.jpg" alt="Study Table">
-									</a>
-									<div class="portfolio-overlay">
-										<a href="http://vimeo.com/91973305" class="left-icon" data-lightbox="iframe"><i class="icon-line-play"></i></a>
-										<a href="portfolio-single-video.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
-									</div>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="portfolio-single-video.html">Study Table</a></h3>
-									<span><a href="#">Graphics</a>, <a href="#">Media</a></span>
-								</div>
-							</article>
-
-							<article class="portfolio-item pf-media pf-icons">
-								<div class="portfolio-image">
-									<a href="portfolio-single.html">
-										<img src="images/portfolio/4/11.jpg" alt="Workspace Stuff">
-									</a>
-									<div class="portfolio-overlay">
-										<a href="images/portfolio/full/11.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
-										<a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
-									</div>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="portfolio-single.html">Workspace Stuff</a></h3>
-									<span><a href="#">Media</a>, <a href="#">Icons</a></span>
-								</div>
-							</article>
-
-							<article class="portfolio-item pf-illustrations pf-graphics">
-								<div class="portfolio-image">
-									<a href="#">
-										<img src="images/portfolio/4/12.jpg" alt="Mac Sunglasses">
-									</a>
-									<div class="portfolio-overlay" data-lightbox="gallery">
-										<a href="images/portfolio/full/12.jpg" class="left-icon" data-lightbox="gallery-item"><i class="icon-line-stack-2"></i></a>
-										<a href="images/portfolio/full/12-1.jpg" class="hidden" data-lightbox="gallery-item"></a>
-										<a href="portfolio-single-gallery.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
-									</div>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="portfolio-single-gallery.html">Fixed Aperture</a></h3>
-									<span><a href="#">Illustrations</a>, <a href="#">Graphics</a></span>
-								</div>
-							</article>
-
 						</div><!-- #portfolio end -->
 
 					</div>
@@ -499,7 +390,7 @@
 
 					<div class="heading-block center">
 						<h2>Nuestro Equipo</h2>
-						<span>People who have contributed enormously to our Company.</span>
+						<span>Profesionales con pasión por las tecnologías y amantes de la innovación.</span>
 					</div>
 
 					<div class="container clearfix">
@@ -511,7 +402,7 @@
 									<img src="images/team/3.jpg" alt="John Doe">
 								</div>
 								<div class="team-desc">
-									<div class="team-title"><h4>John Doe</h4><span>CEO</span></div>
+									<div class="team-title"><h4>Jeams Cueva</h4><span>CEO</span></div>
 									<div class="team-content">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat assumenda similique unde mollitia.</div>
 									<a href="#" class="social-icon si-rounded si-small si-facebook">
 										<i class="icon-facebook"></i>
@@ -648,7 +539,7 @@
 
 					<div class="section parallax" style="background-image: url('images/parallax/3.jpg'); padding: 100px 0;" data-stellar-background-ratio="0.3">
 						<div class="heading-block center nobottomborder nobottommargin">
-							<h2>"Everything is designed, but some things are designed well."</h2>
+							<h2>"La calidad de nuestros servicios, está por encima de todo."</h2>
 						</div>
 					</div>
 
@@ -664,8 +555,8 @@
 						<div class="col_half nobottommargin col_last">
 
 							<div class="heading-block center">
-								<h4>What Clients say?</h4>
-								<span>Some of our Clients love us &amp; so we do!</span>
+								<h4>¿Que opinan nuestros Clientes?</h4>
+								<span>La calidad de servicio que ofrecemos, hace que usted pueda quedar satisfecho.</span>
 							</div>
 
 							<div class="fslider testimonial testimonial-full nobgcolor noborder noshadow nopadding" data-arrows="false">
@@ -711,8 +602,9 @@
 				<section id="contactanos" class="page-section">
 
 					<div class="heading-block title-center">
-						<h2>Ponte en contacto con nosotros</h2>
-						<span>¿Aún tienes preguntas? Completa el formulario y envianos tus consultas.</span>
+						<h2>CONTÁCTANOS</h2>
+						<span>¿Aún tienes preguntas?</span>
+						<span>Completa el formulario y envianos tus consultas.</span>
 					</div>
 
 					<div class="container clearfix">
@@ -793,7 +685,10 @@
 						============================================= -->
 						<div class="col_half col_last">
 
-							<section id="google-map" class="gmap" style="height: 410px;"></section>
+
+							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3902.6301606074107!2d-77.10379609174848!3d-12.00007299315144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6914993817c7df92!2sBit+Group+.SAC!5e0!3m2!1ses-419!2spe!4v1511469920863" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+							<!--<section id="google-map" class="gmap" style="height: 410px;"></section>-->
 
 
 						</div><!-- Google Map End -->
